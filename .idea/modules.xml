@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incapsulacia/incapsulacia.iml" filepath="$PROJECT_DIR$/incapsulacia/incapsulacia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nasled_construc/nasled_construc.iml" filepath="$PROJECT_DIR$/nasled_construc/nasled_construc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nasledovanie/nasledovanie.iml" filepath="$PROJECT_DIR$/nasledovanie/nasledovanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfizm/polimorfizm.iml" filepath="$PROJECT_DIR$/polimorfizm/polimorfizm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structureclassa/structureclassa.iml" filepath="$PROJECT_DIR$/structureclassa/structureclassa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testProject/testProject.iml" filepath="$PROJECT_DIR$/testProject/testProject.iml" />
+    </modules>
+  </component>
+</project>
